@@ -12,8 +12,8 @@ num /= 10;
 return s;
 }
 
-int main(){						// Main function.
-int num =100,i;
+int main(){						 // Main function.
+int num =123,i;
 string s = NumberToString(num) ; //Function call.
 i = s.size();
 cout<<"' ";
